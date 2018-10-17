@@ -1,0 +1,73 @@
+/*
+|--------------------------------------------------------------------------|
+|                     Place your custom styles here                        |
+|--------------------------------------------------------------------------|
+*/
+
+/*font-logo{	
+	font-family: 'Zif-ha2', arial;
+	
+}*/
+
+#board {
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+	color: #000000;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+
+/*MODALS*/
+
+.centered-modal.in {
+    display: flex !important;
+}
+.centered-modal .modal-dialog {
+    margin: auto;
+}
+
+.modal-header{
+	background-color: #FFC206;
+}
+
+.modal-body{
+	background-color: #424242;
+}
+
+.modal-par, p{
+	color: #FFFFFF;
+	text-align:justify;
+}
+
+.modal-res-par, p{
+	color: #FFFFFF;
+	text-align:left;
+}
+
+.underConst, p{
+	color: #000000;
+	text-align:center;
+}
+
+.underConst-modal{
+	background-color: #FFFFFF;
+}
+
+icofont, icofont-tools-alt-2{
+	font-size:36px;
+	color: white;	
+}
+
+.modal-footer{
+	background-color: #FFC206;
+}
+
+/*SECTION*/
+
+.section-line{
+	text-align: justify;
+}
